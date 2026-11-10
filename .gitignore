@@ -1,0 +1,13 @@
+# Accesos directos de Google Docs
+*.gdoc
+
+# Scripts auxiliares
+/R/otros/
+
+# Resultados generados
+/resultados/
+
+# Encuesta: conservar únicamente el cuestionario y la base
+/encuesta/*
+!/encuesta/EncuestaExpertosProyección.docx
+!/encuesta/Base_expertos.xlsx
